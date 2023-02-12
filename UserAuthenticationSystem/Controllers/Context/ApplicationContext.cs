@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using UserAuthenticationSystem.Models;
 
-namespace UserAuthenticationSystem.Controllers.DbContext
+namespace UserAuthenticationSystem.Controllers.Context
 {
     public class ApplicationContext : DbContext
     {
